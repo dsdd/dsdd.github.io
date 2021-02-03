@@ -1,5 +1,6 @@
 org.eps
 org.eps.autoupdater
+org.eps.bowadditions
 org.eps.pickaxepack
 org.eps.pvppack
 org.eps.tokenrewards
@@ -7,7 +8,10 @@ org.whyisthisnecessary.eps
 org.whyisthisnecessary.eps.api
 org.whyisthisnecessary.eps.command
 org.whyisthisnecessary.eps.dependencies
+org.whyisthisnecessary.eps.economy
+org.whyisthisnecessary.eps.item
 org.whyisthisnecessary.eps.legacy
 org.whyisthisnecessary.eps.util
 org.whyisthisnecessary.eps.visual
 org.whyisthisnecessary.eps.workbench
+org.whyisthisnecessary.ids
