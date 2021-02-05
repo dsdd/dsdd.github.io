@@ -1,3 +1,9 @@
+com.osiris.dyml
+com.osiris.dyml.exceptions
+com.osiris.dyml.utils
+com.osiris.dyml.watcher
+javafx.beans
+javafx.util
 org.eps
 org.eps.autoupdater
 org.eps.bowadditions
